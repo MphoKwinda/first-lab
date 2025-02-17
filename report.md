@@ -1,1 +1,1 @@
-# sample-code
+had three files, student-info,hml file and report. student info has my name and student number, html file was a code of my first hml code. so essentially we were learning how to use git and intergrate it on github and vs code.
